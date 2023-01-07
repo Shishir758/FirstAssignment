@@ -5,7 +5,7 @@
 
 
 .headline {
-    font-weight: 800;
+
     font-size: 65px;
     line-height: 76px;
     text-align: right;
@@ -46,9 +46,9 @@
     margin-left: 100px;
 }
 
-.myFailures h2 {
+.myFailures h1 {
     color: #151414;
-    font-weight: 700;
+
     font-size: 40px;
     width: 300px;
     margin-bottom: 25px;
@@ -99,7 +99,7 @@
 }
 .mindSet {
     width: 459px;
-    font-weight: 700;
+ 
     font-size: 40px;
     line-height: 50px;
     color: white;
@@ -139,7 +139,6 @@ button {
 }
 
 .future h3 {
-    font-weight: 700;
     font-size: 45px;
     color: #F8F8F8;
     margin-bottom: 15px;
@@ -158,7 +157,7 @@ button {
 }
 
 .subscriibe h2 {
-    font-weight: 600;
+   
     font-size: 25px;
     color: #FFFFFF;
     margin-bottom: 30px;
@@ -167,14 +166,14 @@ button {
 #email {
     padding: 20px 160px 20px 20px;
     border-radius: 10px;
-    font-weight: 400;
+   
     font-size: 18px;
     background-color: black;
     border: 1px solid white;
 }
 
 .future p {
-    font-weight: 400;
+
     margin: 20px 0px 25px 0px;
     color: #FFFFFF;
 }
