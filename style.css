@@ -1,0 +1,193 @@
+* {margin: 0; padding: 0; font-family: 'Work Sans';}
+
+.bgImage img {width: 100%;}
+
+
+
+.headline {
+    font-weight: 800;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    color: #151414;
+    width: 525px; height: 228px;
+    position: absolute;
+    right: 230px; top: 185px;}
+.headlineDiscription{
+    color: #444343;
+    text-align: right;
+    position: absolute;
+    right: 230px;
+    top: 415px;
+    width: 525px; ;
+    line-height: 25px;
+    padding: 10px;
+}
+.contactBtn{
+    position: absolute;
+    right: 235px;
+    color: #FFFFFF;
+    margin-top: -160px;
+    background-color: #F15B22;
+}
+
+/*Failure Section Styles*/
+.failure {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.myFailures {
+    margin-left: 100px;
+    margin-right: 200px;
+}
+.person{
+    margin-left: 100px;
+}
+
+.myFailures h2 {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    width: 300px;
+    margin-bottom: 25px;
+}
+
+.failuresDisc {
+    margin-bottom: 25px;
+    line-height: 26px;
+}
+
+.failure span {
+    color: rgb(89, 0, 255);
+}
+
+.myFailures p {
+    text-align: justify;
+    margin-top: 5px;
+    color: #444343
+}
+
+/*My plans section styles*/
+.plans {
+    margin: 75px 100px 200px;
+    text-align: center;
+   
+    
+}
+
+.plans-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.plans-container p {
+    margin-top: 15px;
+}
+
+/*This is GradientImage Styles*/
+.gridientImage{
+    position: relative;
+    background-image: url(../FirstAssignment/images/watch.png);
+    background-repeat: no-repeat;
+    margin:  0 100px;
+    margin-top: -70px;
+    margin-bottom: 100px;
+  
+}
+.mindSet {
+    width: 459px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    color: white;
+    margin-left: 65px;
+    position: absolute;
+    margin-top: 60px;
+}
+.callNow{
+    position: absolute;
+    margin-top: -130px;
+    margin-left:65px;
+}
+button {
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px 35px;
+    border-radius: 3px;
+    border: 0px;
+}
+
+.watch{
+    position: absolute;
+    margin-top: 20px;
+}
+
+
+/*This is Future Styles*/
+.footerContainer {
+    background-color: black;
+    display: flex;
+}
+.future {
+    padding-top: 130px;
+    margin-left: 130px;
+    margin-right: 200px;
+}
+
+.future h3 {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin-bottom: 15px;
+}
+
+.futureDiscription {
+    width: 485px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.subscriibe {
+    padding-top: 130px;
+}
+
+.subscriibe h2 {
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+#email {
+    padding: 20px 160px 20px 20px;
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 18px;
+    background-color: black;
+    border: 1px solid white;
+}
+
+.future p {
+    font-weight: 400;
+    margin: 20px 0px 25px 0px;
+    color: #FFFFFF;
+}
+
+.twiter {
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+.socialIcon{
+    padding-bottom: 100px;
+}
+/*End*/
+
+
+
